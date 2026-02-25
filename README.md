@@ -4,6 +4,6 @@
 run the game.py to play
 must install pygame before running
 
-level1~3.py codes are mainly duplicated with game.py; all the comments are in the file
+level1~3.py codes are mainly duplicated with game.py; all the comments are in the game.py file
 
 any reports, including bugs, are welcome!
